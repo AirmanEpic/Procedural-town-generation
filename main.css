@@ -1,0 +1,7 @@
+.but{
+	margin:10px auto;
+	border:1px solid black;
+	border-radius:3px;
+	display:inline-block;
+	padding:0px 20px;
+}
